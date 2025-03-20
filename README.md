@@ -12,7 +12,7 @@ I recently picked up an Atari 2600 and, after repairing it (the left joystick po
 
 But without bankswitching, a cartridge can only contain 4KB of data. The largest bankswitched cartridge (that I know of, anyway), is still only 64KB, and it takes a lot of monkeying around to keep track of all of that and switch as needed — especially with the limited CPU cycles available to the programmer. Any way you slice it, you cannot store a lot of images in that space.
 
-For this reason, I built what I call a Picotari cartridge. It is a customized version of my [PicoROM ROM emulator](https://github.com/nickbild/picoROM) that has edge connectors for an Atari 2600 cartridge port, as well as supporting hardware to put the onboard Raspberry Pi Pico on the Atari's address and data busses.
+For this reason, I built what I call a Picotari cartridge [gerber files](https://github.com/nickbild/atari_2600_digital_frame/tree/main/picotari_pcb). It is a customized version of my [PicoROM ROM emulator](https://github.com/nickbild/picoROM) that has edge connectors for an Atari 2600 cartridge port, as well as supporting hardware to put the onboard Raspberry Pi Pico on the Atari's address and data busses.
 
 | ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/picotari_sm.jpg) | 
 |:--:| 
