@@ -32,6 +32,10 @@ Then I ran it through [Pixel It](https://giventofly.github.io/pixelit/) to help 
 
 ![](https://github.com/nickbild/atari_2600_digital_frame/blob/main/img/for_display/1-convert.png)
 
+Next, I used this [Python script](https://github.com/nickbild/atari_2600_digital_frame/blob/main/read_img.py) to read the image data and turn it into a data strucutre that can be used by the Picotari. The Atari ROM is also turned into a data strucure using [this script](https://github.com/nickbild/atari_2600_digital_frame/blob/main/translate_bin2rom.py).
+
+Once the Picotari is flashed with code containing this data, it only needs to be plugged into the Atari like any other cartridge. It is fully self-contained, drawing its power from the Atari.
+
 ## Media
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/cat.png)
