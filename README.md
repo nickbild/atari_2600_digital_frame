@@ -22,6 +22,16 @@ With modern hardware in the mix, there are plenty of options to expand memory (a
 
 The Atari [runs a program](https://github.com/nickbild/atari_2600_digital_frame/blob/main/showpic.asm) that displays a 64x84-pixel image. Since the Atari needs to be fed one byte at a time for display (there is no frame buffer), sequential retrieval is ideal for this application. Getting anything like a bitmap to display on the 2600 is very difficult since it was never meant to do any such thing. I made it work by using the well-known 48-pixel image trick which uses sprite copies and vertical delays to just barely fit 6 8-bit sprites on a single scan line. to get it up to 64, I draw the first 48 pixels on one frame, then the next 16 at a position just after that on the next frame, and repeat that process ad infinitum. The height of the image could actually go all the way up to 192 pixels, there is no restriction on that — I just think 64x84 has a nice aspect ratio.
 
+### Preparing the images
+
+I started with a photo, such as this one:
+
+![](https://github.com/nickbild/atari_2600_digital_frame/blob/main/img/for_display/1.jpg)
+
+Then I ran it through [Pixel It](https://giventofly.github.io/pixelit/) to help 8-bit-ify it before doing a little manual touch-up in Gimp. The results are something like this:
+
+![](https://github.com/nickbild/atari_2600_digital_frame/blob/main/img/for_display/1-convert.png)
+
 ## Media
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/cat.png)
