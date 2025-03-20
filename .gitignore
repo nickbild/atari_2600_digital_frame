@@ -1,0 +1,6 @@
+vcs.h
+macro.h
+*.bin
+temp*
+*.lst
+48pixel*
