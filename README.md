@@ -36,6 +36,8 @@ Next, I used this [Python script](https://github.com/nickbild/atari_2600_digital
 
 Once the Picotari is flashed with code containing this data, it only needs to be plugged into the Atari like any other cartridge. It is fully self-contained, drawing its power from the Atari.
 
+As presently coded, each image is displayed for about 30 seconds before the next is loaded. After the last image is displayed, it will go back to the first image.
+
 ## Media
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/cat.png)
