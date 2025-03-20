@@ -10,6 +10,8 @@ Turn your family photos into retro 8-bit masterpieces with this Atari 2600 digit
 
 ## Media
 
+![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/cat.png)
+
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/hackster_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/hackaday_sm.jpg)
