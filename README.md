@@ -8,8 +8,9 @@ Turn your family photos into retro 8-bit masterpieces with this Atari 2600 digit
 
 ## How It Works
 
-
-![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/picotari_sm.jpg)
+| ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/picotari_sm.jpg) | 
+|:--:| 
+| *What bodge wire? I don't see any bodge wires.* |
 
 ## Media
 
