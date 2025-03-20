@@ -1,1 +1,1 @@
-# atari_2600_camera
+# Atari 2600 Digital Photo Frame
