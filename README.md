@@ -36,6 +36,10 @@ Once the Picotari is flashed with code containing this data, it only needs to be
 
 As presently coded, each image is displayed for about 30 seconds before the next is loaded. After the last image is displayed, it will go back to the first image.
 
+### Early fails
+
+![](https://github.com/nickbild/atari_2600_digital_frame/blob/main/img/for_display/prototype_sm.jpg)
+
 ## Media
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/cat.png)
