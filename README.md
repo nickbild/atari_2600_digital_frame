@@ -38,7 +38,7 @@ As presently coded, each image is displayed for about 30 seconds before the next
 
 ### Early fails
 
-![](https://github.com/nickbild/atari_2600_digital_frame/blob/main/img/for_display/prototype_sm.jpg)
+![](https://github.com/nickbild/atari_2600_digital_frame/blob/main/img/prototype_sm.jpg)
 
 ## Media
 
