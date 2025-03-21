@@ -38,6 +38,8 @@ As presently coded, each image is displayed for about 30 seconds before the next
 
 ### Early fails
 
+Before designing the Picotari PCB, I prototyped the circuit on perfboard. Even with that huge EMI shield, this version did a lot of unintentional modulating of the Atari's RF output. The wiring on the back is actually quite minimal and neat, but the on-screen image was still full of static and sometimes even rolled. Things were so bad I wasn't sure if the PCB would even do the trick, but fortunately, it cleared the noise up completely.
+
 ![](https://github.com/nickbild/atari_2600_digital_frame/blob/main/img/prototype_sm.jpg)
 
 ## Media
