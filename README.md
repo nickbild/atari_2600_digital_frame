@@ -48,6 +48,8 @@ Meow do you do?
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/cat.png)
 
+![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/person2.png)
+
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/hackster_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/hackaday_sm.jpg)
