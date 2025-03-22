@@ -50,6 +50,8 @@ Meow do you do?
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/cat.png)
 
+I sincerely apologize for turning you into Jim Morrison.
+
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/for_display/2.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/person2.png)
