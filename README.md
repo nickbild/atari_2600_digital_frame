@@ -46,7 +46,11 @@ Before designing the Picotari PCB, I prototyped the circuit on perfboard. Even w
 
 Meow do you do?
 
+![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/for_display/3.jpg)
+
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/cat.png)
+
+![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/for_display/2.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/person2.png)
 
