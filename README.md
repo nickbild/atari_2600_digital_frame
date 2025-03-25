@@ -4,6 +4,10 @@ Turn your family photos into retro 8-bit masterpieces with this Atari 2600 digit
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/logo.jpg)
 
+Watch the video on YouTube:
+
+![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/video_screen.png)
+
 ## How It Works
 
 I recently picked up an Atari 2600 and, after repairing it (the left joystick port did not work; fortunately it turned out to be just broken pins), I wanted to do something special with it. I thought about making something like a Game Boy Camera for it (which I think is a good idea and may still do), or making a really advanced game by incorporating some modern hardware (also a good idea, but I previously made a [2600 game](https://github.com/nickbild/journey_to_xenos) and know how painful it is). In the end, I settled on a digital photo frame. The 8-bit graphics of the Atari 2600 are so beautiful (in their own special way) that it would be nice to be able to cycle through a collection of images during the day.
