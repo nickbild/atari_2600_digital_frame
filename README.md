@@ -48,6 +48,8 @@ Before designing the Picotari PCB, I prototyped the circuit on perfboard. Even w
 
 ## Media
 
+[YouTube Video](https://www.youtube.com/watch?v=uxBHm1ROvYI)
+
 Meow do you do?
 
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/for_display/3.jpg)
