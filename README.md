@@ -5,7 +5,6 @@ Turn your family photos into retro 8-bit masterpieces with this Atari 2600 digit
 ![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/logo.jpg)
 
 Watch the video on YouTube:
-
 <a href="https://www.youtube.com/watch?v=uxBHm1ROvYI">![](https://raw.githubusercontent.com/nickbild/atari_2600_digital_frame/refs/heads/main/img/video_screen.png)</a>
 
 ## How It Works
